@@ -1,4 +1,3 @@
-<img src='http://m.imeitou.com/uploads/allimg/2020111109/qo0zw1sy4mq.jpg' />
 <!--
 **cftan98/cftan98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
